@@ -9,10 +9,6 @@ import { StartupRoute } from "./app/modules/startup/startup.route";
 const app: Application = express();
 
 const corsOptions = {
-  origin: [
-    // "",
-    "http://localhost:5173/",
-  ],
   credentials: true,
 };
 app.use(cors(corsOptions));
