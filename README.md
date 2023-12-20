@@ -12,7 +12,7 @@ There are search bars and filter options for a better user experience.
 
 ## Backend Live: https://startup-directory-backend.vercel.app/api/v1/startups
 
-## Video Link: https://drive.google.com/file/d/1ZyN4z0ajSDtdHNEA3_XevsgUNlPzndjj/view?usp=sharing
+## Video Link: https://www.awesomescreenshot.com/video/23443913?key=a3e26ae7a5378e9d32ee2825222f1934
 
 ## Table of Contents:
 
